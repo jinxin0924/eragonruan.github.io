@@ -1,4 +1,4 @@
 ## JxKing blog
 
-### [View my Blog →](http://http://jinxin0924.github.io/)
+### [View my Blog →](https://jinxin0924.github.io/)
 
