@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "Hello and bye 2017"
+subtitle:   " \"Hello World, Hello Blog, Bye 2017\""
+date:       2017-12-21 14:48:00
+author:     "JxKing"
+header-img: "img/post-bg-001.jpg"
+catalog: true
+tags:
+    - 生活
+---
+
+
+## 前言
+
+工作至今已经快3年了，时间飞逝，以前就在简书上记载过学习、工作经历，入职华为以后，由于华为内部信息安全限制，加上懒，就没更新过了。刚好看到slade有不错的blog模板，就fork了下，感谢！以后就在这里记录下工作学习体会吧~
+
+
+## 正文
+主要记录在工作学习上的各种问题，主要与机器学习及深度学习相关。
+
+---
+
+
+## 后记
+
+Goodbye 2017~
+
+—— JxKing 于 2017.12
+
+

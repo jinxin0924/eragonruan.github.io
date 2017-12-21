@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: jinxin7120@gmail.com
 description: "深度学习"
 keyword: "JxKing, 深度学习"
-url: "https://jxking.me"              # your host, for absolute URL
+url: "jinxin0924.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -13,8 +13,8 @@ baseurl: ""                             # for example, '/blog' if your blog host
 # SNS settings
 RSS: false
 weibo_username:     atx47
-zhihu_username:     sladeRuan
-github_username:    eragonruan
+# zhihu_username:     sladeRuan
+github_username:    jinxin0924
 
 
 # Build settings
@@ -62,8 +62,8 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Hello World <br>Hello End "
-sidebar-avatar: /img/slade.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Explore & Exploit "
+sidebar-avatar: /img/me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -81,7 +81,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Scott",
-        href: "http://ilovin.me/"
+
     }
 ]
