@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      "Optimizer in Tensorflow"
@@ -9,7 +8,7 @@ catalog: true
 tags:
     - optimizer, tensorflow
 ---
-```
+
 
 ## Optimizer in tensorflow
 
